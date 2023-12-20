@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Ardour 
+GenericName=Ardour 
+Comment=Audio and MIDI Digital Audio Workstation
+Exec=/opt/ARDOUR-7/bin/ardour7
+Icon=ardour
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Ardour 
+X-XFCE-Source=file:///usr/share/applications/ardour7.desktop

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Reaper 6 Linux
+GenericName=Reaper 6 Linux
+Comment=Linux version of Reaper DAW
+Exec=/opt/REAPER-6/reaper
+Icon=/opt/REAPER-6/Resources/main.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Reaper 6 Linux
+X-XFCE-Source=file:///usr/share/applications/reaper.desktop

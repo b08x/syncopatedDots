@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Cinelerra-GG
+GenericName=Cinelerra-GG
+Comment=NLE Video Editor
+Exec=/opt/AppImages/CinGG-20221231-x86_64.AppImage
+Icon=cin
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Cinelerra-GG
+X-XFCE-Source=file:///usr/share/applications/cin-appimage.desktop

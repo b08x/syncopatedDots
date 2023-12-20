@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Avidemux
+GenericName=Avidemux
+Comment=Video Editor/Transcoder/Cutter
+Exec=/opt/AppImages/avidemux_2.8.1.appImage
+Icon=avidemux
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Avidemux
+X-XFCE-Source=file:///usr/share/applications/avidemux-appimage.desktop

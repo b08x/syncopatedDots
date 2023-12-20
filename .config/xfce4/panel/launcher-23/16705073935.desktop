@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Harrison Mixbus 32C
+GenericName=Harrison Mixbus 32C
+Comment=Harrison Consoles Digital Audio Workstation
+Exec=/opt/Mixbus32C-8.1.378/bin/mixbus32c8
+Icon=/usr/share/icons/Mixbus32C-128px.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Harrison Mixbus 32C
+X-XFCE-Source=file:///usr/share/applications/mixbus32c8.desktop

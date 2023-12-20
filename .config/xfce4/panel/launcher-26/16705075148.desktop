@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Kdenlive
+GenericName=Kdenlive
+Comment=NLE Video Editor
+Exec=/opt/AppImages/kdenlive-22.12.0-x86_64.AppImage
+Icon=kdenlive
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Kdenlive
+X-XFCE-Source=file:///usr/share/applications/kdenlive-appimage.desktop

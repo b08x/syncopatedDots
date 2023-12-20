@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Musescore 3
+GenericName=Musescore 3
+Comment=Create and Edit Music Scores
+Exec=/opt/AppImages/MuseScore-3.6.2.548021370-x86_64.AppImage
+Icon=musescore
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Musescore 3
+X-XFCE-Source=file:///usr/share/applications/musescore-appimage.desktop

@@ -56,5 +56,5 @@
       "terminal.integrated.minimumContrastRatio": 1,
       "rubyLsp.rubyVersionManager": "asdf",
       "rubyLsp.formatter": "rubocop",
-      "window.zoomLevel": -1,
+      "window.zoomLevel": 1,
 }

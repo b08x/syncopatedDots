@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Blender
+GenericName=Blender
+Comment=3D Computer Graphics Creation Suite
+Exec=/opt/BLENDER-3/blender
+Icon=blender
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Blender
+X-XFCE-Source=file:///usr/share/applications/blender.desktop
+Path=
+StartupNotify=false

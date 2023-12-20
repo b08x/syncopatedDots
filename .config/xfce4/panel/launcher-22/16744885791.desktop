@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Audacity 3
+GenericName=Audacity 3
+Comment=Soundfile Editor (AppImage Version)
+Exec=/opt/AppImages/audacity-linux-3.2.3-x64.AppImage
+Icon=audacity
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;AudioVideo
+GenericName[en_US]=Audacity 3
+X-XFCE-Source=file:///usr/share/applications/audacity-appimage.desktop
