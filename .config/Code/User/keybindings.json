@@ -1,0 +1,10 @@
+[
+{
+    "key": "alt+shift+n",
+    "command": "vscodeMarkdownNotes.newNote",
+},
+{
+    "key": "shift+alt+l",
+    "command": "markdown.extension.editing.toggleList"
+}
+]
