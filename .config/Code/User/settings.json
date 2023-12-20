@@ -28,8 +28,8 @@
       "ansible.executionEnvironment.containerEngine": "docker",
       "ansibleServer.trace.server": "verbose",
       "diffEditor.renderSideBySide": false,
-      "solargraph.bundlerPath": "/home/b08x/.asdf/shims/bundle",
-      "solargraph.commandPath": "/home/b08x/.asdf/shims/solargraph",
+      "solargraph.bundlerPath": "/home/b08x/.local/share/gem/ruby/3.1.0/bin/bundle",
+      "solargraph.commandPath": "/home/b08x/.local/share/gem/ruby/3.1.0/bin/solargraph",
       "solargraph.diagnostics": true,
       "redhat.telemetry.enabled": false,
       "editor.fontSize": 16,
@@ -54,7 +54,7 @@
         "references": true
       },
       "terminal.integrated.minimumContrastRatio": 1,
-      "window.zoomLevel": 1,
       "rubyLsp.rubyVersionManager": "asdf",
       "rubyLsp.formatter": "rubocop",
+      "window.zoomLevel": -1,
 }
